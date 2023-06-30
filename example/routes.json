@@ -1,0 +1,47 @@
+[
+  {
+    "route_id": "SZ27A",
+    "agency_id": "szombathely",
+    "route_short_name": "27A",
+    "route_long_name": "Vasútállomás - Parkerdő lakópark",
+    "route_desc": null,
+    "route_type": 3,
+    "route_url": null,
+    "route_color": "9ad4fc",
+    "route_text_color": "000000",
+    "route_sort_order": 24,
+    "continuous_pickup": null,
+    "continuous_drop_off": null,
+    "network_id": null
+  },
+  {
+    "route_id": "SZ03H",
+    "agency_id": "szombathely",
+    "route_short_name": "3H",
+    "route_long_name": "Vasútállomás - iSi Automotive",
+    "route_desc": null,
+    "route_type": 3,
+    "route_url": null,
+    "route_color": "69e3c4",
+    "route_text_color": "000000",
+    "route_sort_order": 3,
+    "continuous_pickup": null,
+    "continuous_drop_off": null,
+    "network_id": null
+  },
+  {
+    "route_id": "SZ009",
+    "agency_id": "szombathely",
+    "route_short_name": "9",
+    "route_long_name": "Vasútállomás - Joskar-Ola városrész - Oladi városrész - Derkovits városrész",
+    "route_desc": null,
+    "route_type": 3,
+    "route_url": null,
+    "route_color": "993c69",
+    "route_text_color": "FFFFFF",
+    "route_sort_order": 12,
+    "continuous_pickup": null,
+    "continuous_drop_off": null,
+    "network_id": null
+  }
+]
