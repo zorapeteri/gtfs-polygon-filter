@@ -1,4 +1,4 @@
-import { Feature, MultiPolygon, Polygon } from 'geojson'
+import type { Feature, MultiPolygon, Polygon } from 'geojson'
 import { polygon as makePolygon } from '@turf/helpers'
 import { GtfsPolygonFilterProps } from './index.js'
 

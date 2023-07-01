@@ -16,8 +16,6 @@
   "author": "Zora Péteri <zorapeteri@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/geojson": "^7946.0.10",
-    "geojson": "^0.5.0",
     "typescript": "^5.1.6"
   },
   "type": "module",
@@ -28,6 +26,7 @@
   "dependencies": {
     "@turf/boolean-contains": "^6.5.0",
     "@turf/helpers": "^6.5.0",
+    "@types/geojson": "^7946.0.10",
     "gtfs": "^4.4.0"
   }
 }
