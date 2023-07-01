@@ -1,6 +1,6 @@
 {
   "name": "gtfs-polygon-filter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Filters routes in a GTFS feed that overlap with a GeoJSON polygon",
   "main": "build/index.js",
   "scripts": {
